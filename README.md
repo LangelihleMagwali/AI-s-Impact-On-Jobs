@@ -1,3 +1,3 @@
-# AI-Impact-On-Jobs
-This is a project created to observe how AI is going to affect the job market.
-[insert short description]
+## AI-Impact-On-Jobs
+
+This project investigates the impact of artificial intelligence (AI) adoption on job growth, automation risk, and the demand for skills in the labor market. Using a dataset of 500 job listings across different industries, the analysis explores how varying levels of AI adoption relate to whether jobs are expanding or declining, as well as how susceptible they are to automation. The project also examines salary patterns and identifies the skills most commonly required in high-growth, low-risk roles. Through data visualization and exploratory analysis, the study aims to provide insights into how AI is reshaping employment trends, highlighting both the opportunities it creates and the challenges it presents for the future workforce.
