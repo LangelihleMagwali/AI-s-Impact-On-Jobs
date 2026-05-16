@@ -12,9 +12,7 @@ The dataset contains 500 synthetic job listings with variables such as job title
 5. Count the most common skills in those filtered jobs.
 6. Convert ordered categories into numeric scores for correlation analysis.
 
-## Interpretation guidance
-
-When writing the report, focus on what the visualizations show in simple terms. For example:
+## Research Questions
 
 - Which job growth category is most common?
 - Which automation risk category appears most often?
