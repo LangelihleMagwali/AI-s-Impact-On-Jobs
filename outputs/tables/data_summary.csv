@@ -1,0 +1,11 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+job_title,500,10,Data Scientist,62,,,,,,,
+industry,500,10,Manufacturing,58,,,,,,,
+company_size,500,3,Small,171,,,,,,,
+location,500,10,San Francisco,62,,,,,,,
+ai_adoption_level,500,3,Medium,179,,,,,,,
+automation_risk,500,3,Medium,173,,,,,,,
+required_skills,500,10,Python,60,,,,,,,
+salary_usd,500.0,,,,91222.39116,20504.29136044595,31969.53,78511.5175,91998.195,103971.2825,155209.82
+remote_friendly,500,2,Yes,251,,,,,,,
+job_growth_projection,500,3,Growth,169,,,,,,,
