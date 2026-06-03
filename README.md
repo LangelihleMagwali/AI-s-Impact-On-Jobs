@@ -105,3 +105,8 @@ git add scripts/04_regression_and_clustering.py
 git commit -m "Add regression and clustering analysis script"
 git push origin chiedza-analysis
 ```
+---
+
+## AI Declaration
+
+During the development of this project, AI tools were used as a support tool to assist with planning, structuring, writing, and improving the clarity of the project documentation and code explanations.
